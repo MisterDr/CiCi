@@ -7,7 +7,7 @@ require('shelljs/global');
 var github = githubhook( {port: 9900} );
 
 var repoPath = "../TestRep";
-var projectPath = "swipestox";
+var projectPath = "proj";
 var qtPath = "\\Qt\\Qt.5.5.1\\mscv2013_64\\bin\\";
 var vcvarsAll = "\\Program Files (x86)\\Microsoft Visual Studio 12.0\\VC\\vcvarsall.bat";
 var makeDir = "";
