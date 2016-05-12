@@ -1,0 +1,24 @@
+{
+  "name": "untitled",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MisterDr/CiCi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MisterDr/CiCi/issues"
+  },
+  "homepage": "https://github.com/MisterDr/CiCi#readme",
+  "dependencies": {
+    "githubhook": "^1.6.1",
+    "nodegit": "^0.13.0",
+    "shelljs": "^0.7.0"
+  }
+}
