@@ -1,5 +1,5 @@
 {
-  "name": "untitled",
+  "name": "Deployer",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -8,15 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MisterDr/CiCi.git"
+    "url": "git@bitbucket.org:djenad_razic_/deployer.git"
   },
-  "author": "",
+  "author": "Djenad Razic",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MisterDr/CiCi/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/MisterDr/CiCi#readme",
+  "homepage": "",
   "dependencies": {
+    "express": "^4.14.0",
     "githubhook": "^1.6.1",
     "nodegit": "^0.13.0",
     "shelljs": "^0.7.0"
