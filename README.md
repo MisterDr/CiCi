@@ -5,7 +5,8 @@ Git Deploy App written in NodeJS
   - Auto Deploy QT written application ( Kill, Pull, Merge, Compile and Restart )
   - Supports GitHub and BitBucket hooks
   - Supports SSH keys instead and plain passwords
-## Setup
+
+## Setup:
   - Add git SSH keys at the default .ssh folder
   - Specify path for it at the config file
   - Load environment variables, or make task ( runner\tasks ) to do so
